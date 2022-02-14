@@ -11,7 +11,7 @@ The purpose of the new analysis is to determine the number of retiring employees
   * In the mentorship table a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965. The table has 2,382 eligible mentorship partisipants.
  
 ## Summary:
-The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
+
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 In total over 33,000 positions will need to be filled when all employees from the retiring_titles table retire.
 
